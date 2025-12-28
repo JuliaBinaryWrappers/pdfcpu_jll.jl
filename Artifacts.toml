@@ -1,0 +1,160 @@
+[[pdfcpu]]
+arch = "aarch64"
+git-tree-sha1 = "82379ef6d0decee42c8d9331c67a7042c9dbefe6"
+os = "macos"
+
+    [[pdfcpu.download]]
+    sha256 = "159570e871c7cc5edcb242ba075b473e7807fe5d8be4edc5000c58a6b6eda31f"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.aarch64-apple-darwin.tar.gz"
+[[pdfcpu]]
+arch = "aarch64"
+git-tree-sha1 = "29fc820f0560e1d85241a6eb73228d993139ba1f"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "786d6f0ae49ea8b02e2b320b5946b7a2b7c227081ed1090fe3127e0bfd120c33"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.aarch64-linux-gnu.tar.gz"
+[[pdfcpu]]
+arch = "aarch64"
+git-tree-sha1 = "29fc820f0560e1d85241a6eb73228d993139ba1f"
+libc = "musl"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "786d6f0ae49ea8b02e2b320b5946b7a2b7c227081ed1090fe3127e0bfd120c33"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.aarch64-linux-musl.tar.gz"
+[[pdfcpu]]
+arch = "aarch64"
+git-tree-sha1 = "596fac874091c5bc59a152a17d2834f7320042d1"
+os = "freebsd"
+
+    [[pdfcpu.download]]
+    sha256 = "2eb4638cbadb625226a451a62a93ab022a3f02178585bf70d49d94441a245c55"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.aarch64-unknown-freebsd.tar.gz"
+[[pdfcpu]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6c16e7c02e2e79d80ae0ff356e77df0ba951ff59"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "4f71c9c5e7e90512ca7882eb7239414f021e5c519f5cb0ee14a81a72691fda0b"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.armv6l-linux-gnueabihf.tar.gz"
+[[pdfcpu]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6c16e7c02e2e79d80ae0ff356e77df0ba951ff59"
+libc = "musl"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "4f71c9c5e7e90512ca7882eb7239414f021e5c519f5cb0ee14a81a72691fda0b"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.armv6l-linux-musleabihf.tar.gz"
+[[pdfcpu]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5aa5e832e85c06e7fe351ee19acf428e2b7f49c"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "7941395f087857088a35bc39addd05e37e06ea24eb143026c6b15999c3ae9bc3"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.armv7l-linux-gnueabihf.tar.gz"
+[[pdfcpu]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5aa5e832e85c06e7fe351ee19acf428e2b7f49c"
+libc = "musl"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "7941395f087857088a35bc39addd05e37e06ea24eb143026c6b15999c3ae9bc3"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.armv7l-linux-musleabihf.tar.gz"
+[[pdfcpu]]
+arch = "i686"
+git-tree-sha1 = "da7b316ffe05025807499b2f6c5965715a25c254"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "3195f623ae5c076dc2985be7089bfe1b46229f73c802a05d12be756d8bd1c9c0"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.i686-linux-gnu.tar.gz"
+[[pdfcpu]]
+arch = "i686"
+git-tree-sha1 = "da7b316ffe05025807499b2f6c5965715a25c254"
+libc = "musl"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "3195f623ae5c076dc2985be7089bfe1b46229f73c802a05d12be756d8bd1c9c0"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.i686-linux-musl.tar.gz"
+[[pdfcpu]]
+arch = "i686"
+git-tree-sha1 = "58ed69b3f3d7170404341516f0037d45a5c79608"
+os = "windows"
+
+    [[pdfcpu.download]]
+    sha256 = "b0315d245ec62f288d08a9217ad2b4bfa93aa877e371d547dd86c376987bebeb"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.i686-w64-mingw32.tar.gz"
+[[pdfcpu]]
+arch = "powerpc64le"
+git-tree-sha1 = "cccdcfc40206c9e745a9d474c386f1b961b6461e"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "eb8fd301bc80bccf49037ee9396c029ca98eec14fc2ff3c0b4e7907a2520ea39"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.powerpc64le-linux-gnu.tar.gz"
+[[pdfcpu]]
+arch = "riscv64"
+git-tree-sha1 = "8d0b21fe66786c1423d54981c699ad6748314b21"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "43ea6e33fbe1d510d1cf4df7fe1b6e0233eb413787aa42614e4647f8847a1b5f"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.riscv64-linux-gnu.tar.gz"
+[[pdfcpu]]
+arch = "x86_64"
+git-tree-sha1 = "2caa715e39efebf54708f9e36228022931f80efc"
+os = "macos"
+
+    [[pdfcpu.download]]
+    sha256 = "ae28dd1db46f013f2f96f7cc894f73d23c348e5dfafa19eedc735f6eb5056dd9"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.x86_64-apple-darwin.tar.gz"
+[[pdfcpu]]
+arch = "x86_64"
+git-tree-sha1 = "54d68e489f8ba6dfc4c74724f21e87ac69a58600"
+libc = "glibc"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "011b690b9c91c8de025a736fd2e1ee9c35ab1a529a152ec2ffeed325dec519b2"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.x86_64-linux-gnu.tar.gz"
+[[pdfcpu]]
+arch = "x86_64"
+git-tree-sha1 = "82112d8967a11e0ba8470ffc6f4c7ad410a2c13b"
+libc = "musl"
+os = "linux"
+
+    [[pdfcpu.download]]
+    sha256 = "ef0671ba775a562d383df0cc0f3fce4eca7df685befbd6643240d845501135a9"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.x86_64-linux-musl.tar.gz"
+[[pdfcpu]]
+arch = "x86_64"
+git-tree-sha1 = "7e0545d954369834c9d65ee241cee1ecf7a35dc8"
+os = "freebsd"
+
+    [[pdfcpu.download]]
+    sha256 = "6a0a07b7ad30c4c3745d1dbeee11411e2b2895831c151e5a9d47fce2dd0193dd"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.x86_64-unknown-freebsd.tar.gz"
+[[pdfcpu]]
+arch = "x86_64"
+git-tree-sha1 = "d3944abb7f9295796fab6bf6cb4cb5049f37e927"
+os = "windows"
+
+    [[pdfcpu.download]]
+    sha256 = "bfd10268a891a495467f054a740fb7c1464bd1098388e2c222207fe6f9dc8a72"
+    url = "https://github.com/JuliaBinaryWrappers/pdfcpu_jll.jl/releases/download/pdfcpu-v0.11.1+0/pdfcpu.v0.11.1.x86_64-w64-mingw32.tar.gz"
